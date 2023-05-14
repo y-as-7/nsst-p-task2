@@ -30,11 +30,7 @@ export default async function Home() {
           Task3
           </h1>
         </Link>
-        <Link href="/task4">
-          <h1 className="my-2 text-center bg-[#151a25] px-8 md:text-4xl text-red-700 text-2xl py-4 rounded transition duration-600 hover:text-white hover:bg-red-700">
-          Task4
-          </h1>
-        </Link>
+        
       </div>
     </div>
   );
